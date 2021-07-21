@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mogale 😁
 - 👀 I’m interested in building software
-- 🌱 I’m currently learning Authenticating a REST API
+- 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on .NET Core web api projects
 - 📫 How to reach me --> thadhinsky@gmial.com
 
